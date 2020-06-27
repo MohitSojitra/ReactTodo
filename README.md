@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple React ToDo Website.
+
+ # Description : 
+  It is simple ToDo React app. In this app you can add ToDo task , update, delete and display It. You can also set a status like mark as a complete, mark as incomplete, delete all complete task and much more.<br><br>
+ 
+ if you are noob like me this project is very usefull for the clear the funda of react.
 
 ## Available Scripts
 
